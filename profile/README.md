@@ -8,18 +8,6 @@ These repositories are shared as **open-source dev releases**. They’re meant t
 
 ## Open Source Repos
 
-### Primer
-A deterministic approach to codebase synthesis and indexing.
-
-Primer maps a repository and produces a structured index that can be consumed by humans or AI agents, with an emphasis on reproducibility and high-fidelity context.
-
-- Languages: C++, C#, Rust, Go, Java, TypeScript, Python  
-- Status: v0.1 (functional, API subject to change)
-
-➡️ https://github.com/point-zero-sys/primer
-
----
-
 ### Ghostframe FX Core
 A low-level, GPU-first glitch effects engine built with Vulkan and C++20.
 
